@@ -9,7 +9,11 @@
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
+<<<<<<< HEAD
     "express": "4.14.2"
+=======
+    "express": "4.14.x"
+>>>>>>> b2739f2087c809d253be265cdec52d4f975b7654
   }
 }
 
